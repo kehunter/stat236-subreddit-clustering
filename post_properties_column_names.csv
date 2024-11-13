@@ -1,0 +1,87 @@
+Description,Colname
+Number of characters,char_count
+Number of characters without counting white space,char_count_no_space
+Fraction of alphabetical characters,alpha_fraction
+Fraction of digits,digit_fraction
+Fraction of uppercase characters,uppercase_fraction
+Fraction of white spaces,whitespace_fraction
+"Fraction of special characters, such as comma, exclamation mark, etc.",special_char_fraction
+Number of words,word_count
+Number of unique works,unique_word_count
+Number of long words (at least 6 characters),long_word_count
+Average word length,avg_word_length
+Number of unique stopwords,unique_stopword_count
+Fraction of stopwords,stopword_fraction
+Number of sentences,sentence_count
+Number of long sentences (at least 10 words),long_sentence_count
+Average number of characters per sentence,avg_char_per_sentence
+Average number of words per sentence,avg_word_per_sentence
+Automated readability index,readability_index
+Positive sentiment calculated by VADER,sentiment_positive
+Negative sentiment calculated by VADER,sentiment_negative
+Compound sentiment calculated by VADER,sentiment_compound
+LIWC_Funct,LIWC_Funct
+LIWC_Pronoun,LIWC_Pronoun
+LIWC_Ppron,LIWC_Ppron
+LIWC_I,LIWC_I
+LIWC_We,LIWC_We
+LIWC_You,LIWC_You
+LIWC_SheHe,LIWC_SheHe
+LIWC_They,LIWC_They
+LIWC_Ipron,LIWC_Ipron
+LIWC_Article,LIWC_Article
+LIWC_Verbs,LIWC_Verbs
+LIWC_AuxVb,LIWC_AuxVb
+LIWC_Past,LIWC_Past
+LIWC_Present,LIWC_Present
+LIWC_Future,LIWC_Future
+LIWC_Adverbs,LIWC_Adverbs
+LIWC_Prep,LIWC_Prep
+LIWC_Conj,LIWC_Conj
+LIWC_Negate,LIWC_Negate
+LIWC_Quant,LIWC_Quant
+LIWC_Numbers,LIWC_Numbers
+LIWC_Swear,LIWC_Swear
+LIWC_Social,LIWC_Social
+LIWC_Family,LIWC_Family
+LIWC_Friends,LIWC_Friends
+LIWC_Humans,LIWC_Humans
+LIWC_Affect,LIWC_Affect
+LIWC_Posemo,LIWC_Posemo
+LIWC_Negemo,LIWC_Negemo
+LIWC_Anx,LIWC_Anx
+LIWC_Anger,LIWC_Anger
+LIWC_Sad,LIWC_Sad
+LIWC_CogMech,LIWC_CogMech
+LIWC_Insight,LIWC_Insight
+LIWC_Cause,LIWC_Cause
+LIWC_Discrep,LIWC_Discrep
+LIWC_Tentat,LIWC_Tentat
+LIWC_Certain,LIWC_Certain
+LIWC_Inhib,LIWC_Inhib
+LIWC_Incl,LIWC_Incl
+LIWC_Excl,LIWC_Excl
+LIWC_Percept,LIWC_Percept
+LIWC_See,LIWC_See
+LIWC_Hear,LIWC_Hear
+LIWC_Feel,LIWC_Feel
+LIWC_Bio,LIWC_Bio
+LIWC_Body,LIWC_Body
+LIWC_Health,LIWC_Health
+LIWC_Sexual,LIWC_Sexual
+LIWC_Ingest,LIWC_Ingest
+LIWC_Relativ,LIWC_Relativ
+LIWC_Motion,LIWC_Motion
+LIWC_Space,LIWC_Space
+LIWC_Time,LIWC_Time
+LIWC_Work,LIWC_Work
+LIWC_Achiev,LIWC_Achiev
+LIWC_Leisure,LIWC_Leisure
+LIWC_Home,LIWC_Home
+LIWC_Money,LIWC_Money
+LIWC_Relig,LIWC_Relig
+LIWC_Death,LIWC_Death
+LIWC_Assent,LIWC_Assent
+LIWC_Dissent,LIWC_Dissent
+LIWC_Nonflu,LIWC_Nonflu
+LIWC_Filler,LIWC_Filler
