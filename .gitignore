@@ -1,3 +1,4 @@
 .venv
 data/soc-redditHyperlinks-body.tsv
 .ipynb_checkpoints/
+data/filtered_network.csv
